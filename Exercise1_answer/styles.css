@@ -1,0 +1,12 @@
+h1{
+	color: #fff;
+	text-align: center;
+    text-transform: uppercase;
+    background-color: #009688;
+}
+
+h2{
+	color: #00BCD4;
+	text-align: center;
+    text-transform: capitalize;
+}
