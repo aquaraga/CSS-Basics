@@ -8,11 +8,14 @@ h1{
 	color: #fff;
 	text-align: center;
     text-transform: uppercase;
-    background-color: #009688;
+	background-color: #009688;
+	margin: 0;
 }
 
 h2{
 	color: #00BCD4;
 	text-align: center;
-    text-transform: capitalize;
+	text-transform: capitalize;
+	margin-top: 0.5 rem;
+	margin-bottom: 0.5 rem;
 }
