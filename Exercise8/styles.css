@@ -35,3 +35,21 @@ footer{
 	text-align: center;
 	padding: 0.5rem 0;
 }
+
+section {
+	display: flex;
+	background-color: #eeeeee;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	justify-content: center;
+}
+
+.childComponent {
+	background-color: #ffffff;
+	height: 25rem;
+	border: 1px solid #e3e3e3;
+	margin: 1em;
+	padding: 1em;
+}
