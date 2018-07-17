@@ -2,3 +2,20 @@
 	width: 50%;
 	border: 1px solid blue;
 }
+.one {
+	font-size: 200%;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+.two {
+	margin-bottom: 0.5rem;
+	margin-top: 0.5rem;
+	font-size: 125%;
+	text-align: center;
+}
+
+.three {
+	text-align: center;
+}
