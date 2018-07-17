@@ -41,7 +41,7 @@ section{
 	justify-content: center;
 	background-color: #eeeeee;
 	padding: 1rem 0;
-    margin: 1rem auto 1rem;
+	margin: 1rem auto 1rem;
 }
 
 .childComponent{
@@ -51,4 +51,5 @@ section{
 	background-color: #ffffff;
 	margin-right: 1rem;
 	padding: 1rem;
+	box-sizing: border-box;
 }
